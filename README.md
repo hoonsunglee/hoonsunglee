@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoonsunglee
-- 👀 I’m interested in philososphy & basketball
-- 🌱 I’m currently learning AP computer science
+- 👀 I’m interested in history & basketball
+- 🌱 I’m currently learning AP Bio 💀
 - 💞️ I’m looking to collaborate with other people
 - 📫 How to reach me hoonsunglee5@gmail.com
 
