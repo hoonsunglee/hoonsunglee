@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hoonsunglee
-- 👀 I’m interested in history & basketball
-- 🌱 I’m currently learning AP Bio 💀
+- 👀 I’m interested in history & basketball & Competitive Programming
+- 🌱 I’m currently learning AP Bio + Data Structures && Algorithms 
 - 💞️ I’m looking to collaborate with other people
-- 📫 How to reach me hoonsunglee5@gmail.com
+- 📫 How to reach me  - hoonsunglee5@gmail.com or hoonsunglee25@cornerstonecollegiate.org
 
 
 
