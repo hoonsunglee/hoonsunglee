@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with other people
 - 📫 How to reach me  - hoonsunglee5@gmail.com or hoonsunglee25@cornerstonecollegiate.org
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonsunglee5)](https://solved.ac/hoonsunglee5/)
 
 
 
