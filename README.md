@@ -1,5 +1,4 @@
 - 평범한 고등학생입니다 
-- grinding usaco rn
 - hoonsunglee5@gmail.com or hoonsunglee25@cornerstonecollegiate.org
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoonsunglee88)](https://solved.ac/hoonsunglee88/)
